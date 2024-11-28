@@ -1,0 +1,57 @@
+projectName: Eco feidly smart home solution
+jsonFilePath: ./input.json
+baseUrl: https://logicballs.com
+portalHeading: 'AI FOR ALL: EXPLORE THE FIRST-EVER VISUAL CHATGPT PLATFORM'
+portalDescription: >-
+  LogicBalls combines brainstorming, writing, analysis, and research in one
+  powerful AI tool. Enhance your professional content now!
+portalTitle: Elevate Every Aspect of Your Work
+searchPlaceholder: Search for AI tools and resources
+useAlphabetsCategory: true
+homeLink: https://logicballs.com/
+logoLink: https://logicballs.com/
+ctaText: Get Started
+aboutLink: https://logicballs.com/about
+productsLink: https://logicballs.com/products
+logoImgUrl: https://logicballs.com/logo.png
+ctaLink: https://logicballs.com/auth
+copyrightText: © 2023 LogicBalls. All rights reserved.
+faviconUrl: https://logicballs.com/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Facebook
+    url: https://facebook.com/logicballs
+  - platform: Twitter
+    url: https://twitter.com/logicballs
+  - platform: LinkedIn
+    url: https://linkedin.com/company/logicballs
+theme:
+  primaryColor: '#4CAF50'
+  secondaryColor: '#FF9800'
+  backgroundColor: '#FFFFFF'
+  textColor: '#000000'
+  accentColor: '#FFC107'
+fonts:
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Roboto
+    weights:
+      - 500
+      - 600
+      - 700

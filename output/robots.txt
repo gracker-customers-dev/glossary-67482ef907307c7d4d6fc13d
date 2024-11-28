@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://logicballs.com/sitemap.xml
